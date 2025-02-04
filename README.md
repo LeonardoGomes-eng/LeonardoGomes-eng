@@ -1,9 +1,10 @@
 ## Olá! Me chamo Leonardo.
 
 <div>
-  <a href="https://github.com/LenzWM">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=LenzWM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenzWM&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/LenzWM/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=LenzWM&theme=dracula&show_icons=true"
+  </a>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenzWM&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +19,9 @@
   ##
 
 <div>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href="discordapp.com/users/537969397944418306">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  
+  </a>
   <img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
