@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/LeonardoGomes-eng/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=LenzWM&theme=dracula&show_icons=true"
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoGomes-eng&theme=dracula&show_icons=true"
   </a>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenzWM&layout=compact&langs_count=16&theme=dracula">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomes-eng&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
