@@ -7,8 +7,10 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomes-eng&layout=compact&langs_count=16&theme=dracula">
 </div>
 
+
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
