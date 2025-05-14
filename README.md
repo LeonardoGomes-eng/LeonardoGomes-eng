@@ -1,7 +1,7 @@
 ## Olá! Me chamo Leonardo.
 
 <div>
-  <a href="https://github.com/LenzWM/github-readme-stats">
+  <a href="https://github.com/LeonardoGomes-eng/github-readme-stats">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=LenzWM&theme=dracula&show_icons=true"
   </a>
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenzWM&layout=compact&langs_count=16&theme=dracula">
