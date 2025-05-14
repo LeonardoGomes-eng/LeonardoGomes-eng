@@ -48,7 +48,7 @@ Assim, visando a um ensino dinâmico que una tanto a prática quanto a teoria.
 My name is Leonardo, graduating in `computer engineering`. I work as a back-end java dev.
 
 - I'm interested in `game dev`, `embedded systems programming` and `backend development`. I love to learn about new tecnologies and programming;
-- 📫 If you want to contact me, here's my `email:` leonardoagomes.dev@gmail.com.
+- 📫 If you want to contact me, here's my `email:` leonardoagomes.eng@gmail.com.
 
 Currently, I'm working on my college project with my friends.
 We are developing a teaching tool, whose objective is to teach about `logic gates` and `digital/analog electronics`
