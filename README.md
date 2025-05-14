@@ -30,8 +30,8 @@
 Sou aluno do terceiro semestre de engenharia de computação no CESUPA (Centro Universitário do Estado do Pará) e atuo como
 desenvolvedor Java back-end.
 
-- Tenho interesse em `game dev`, `sistemas embarcados` e `desenvolvimento back-end`. Sou apaixonado por programação e por aprender novas tecnologias;
-- 📫 Para entrar em contato aqui está o meu email: leonardoagomes.dev@gmail.com.
+- Tenho interesse em `game dev`, `sistemas embarcados` e `desenvolvimento back-end`. Sou apaixonado por programação e por aprender novas tecnologias
+- 📫 Para entrar em contato aqui está o meu email: leonardoagomes.eng@gmail.com
 
 Atualmente, estou trabalhando no meu projeto de faculdade com meus amigos.
 Estamos desenvolvendo uma ferramenta de ensino que junta software e hardware, cujo objetivo é ajudar e facilitar o ensino de `portas lógicas` e `eletrônica digital/analógica`
