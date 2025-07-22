@@ -43,7 +43,7 @@
 
   ##
 
-Sou aluno do terceiro semestre de engenharia de computação no CESUPA (Centro Universitário do Estado do Pará) e atuo como
+Sou aluno do quarto semestre de engenharia de computação no CESUPA (Centro Universitário do Estado do Pará) e atuo como
 desenvolvedor Java back-end.
 
 - Tenho interesse em `game dev`, `sistemas embarcados` e `desenvolvimento back-end`. Sou apaixonado por programação e por aprender novas tecnologias
